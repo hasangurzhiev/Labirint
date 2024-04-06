@@ -1,0 +1,14 @@
+D:\IS-22\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.AssemblyReference.cache
+D:\IS-22\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.CoreCompileInputs.cache
+D:\IS-22\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe.config
+D:\IS-22\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe
+D:\IS-22\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.pdb
+D:\IS-22\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.exe
+D:\IS-22\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.pdb
+C:\Users\1\Desktop\Labirint-main\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe.config
+C:\Users\1\Desktop\Labirint-main\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe
+C:\Users\1\Desktop\Labirint-main\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.pdb
+C:\Users\1\Desktop\Labirint-main\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Labirint-main\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Labirint-main\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.exe
+C:\Users\1\Desktop\Labirint-main\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.pdb
